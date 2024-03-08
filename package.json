@@ -1,7 +1,7 @@
 {
   "name": "@ai-protocol/leaderboard-contracts",
   "version": "1.0.0",
-  "description": "NFT Sale contracts for AI Protocol",
+  "description": "Reward system contracts",
   "main": "index.js",
   "scripts": {
     "clean": "hardhat clean",
